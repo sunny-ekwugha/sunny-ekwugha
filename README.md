@@ -16,8 +16,6 @@ Welcome to my GitHub profile! I'm a passionate Cloud Engineer with a love for bu
 
 ## 📈 GitHub Stats
 
-[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunny-ekwugha)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Sunny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunny-ekwugha&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
