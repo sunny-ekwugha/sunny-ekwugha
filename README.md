@@ -9,14 +9,6 @@ Welcome to my GitHub profile! I'm a passionate Cloud Engineer with a love for bu
 - **💼 Experience**: Extensive background in cloud architecture, DevOps, CI/CD pipelines, and infrastructure as code.
 - **🌟 Skills**: AWS, Docker, Kubernetes, Terraform, Ansible, GitHub Actions, Python, Bash, Linux.
 
-## 📂 My Projects
-
-Here are some of my notable projects:
-
-- **[Multi-Cloud Infrastructure Automation](https://github.com/sunny-ekwugha/multi-cloud-infra**: 
-- **[Serverless Analytics Platform](https://github.com/sunny-ekwugha/serverless-analytics**
-- **[Kubernetes CI/CD Pipeline](https://github.com/sunny-ekwugha/**
-
 ## 💬 Connect with Me
 
 - **LinkedIn**: www.linkedin.com/in/sunnyekwugha-cloudengineer
